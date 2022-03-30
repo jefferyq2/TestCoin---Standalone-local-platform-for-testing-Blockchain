@@ -1,0 +1,177 @@
+Block Index: 0     Timestamp: 16/11/2018 19:02:37
+ Hash: 00000c805471e8dbca7361d0b16dfb37a08bf3298755033faccba9ecd505f88d
+ Previous Hash: 
+ Nonce: 15832907
+ MerkleRoot: GenesisMerkle
+ Reward: 40 to TestCoinMinerReward
+ Transaction Fees Reward: 0
+ Transaction Details: 
+
+Block Index: 1     Timestamp: 16/11/2018 19:02:55
+ Hash: 00000e9cadc22df2e7006a536cc2df82cc9fe2d5f455b40ce50a272cc69ca96e
+ Previous Hash: 00000c805471e8dbca7361d0b16dfb37a08bf3298755033faccba9ecd505f88d
+ Nonce: 25922
+ MerkleRoot: 9015985a3e1c03a7e13d8859fc4c90aeb8a29b6ac8e3f86d4ca411b79a1df052
+ Reward: 40 to lXeGIcKYYT5aLMUK66pH96VlKyQliTNKoIXHmNS1RDVWYx5PKjcEokP/fu04NQsLOpw5uODhO47a+9XnZ6Clxw==
+ Transaction Fees Reward: 0
+ Transaction Details: 
+
+     Transaction Hash: 19758c1ce1c6e3cf031be34d4c607221e24d700d5f9b9e2bc381a6ea58e5be2b
+     Signature: D9uQqLl+chJQVYHKhdVB/4YC74maQ5/4THoqXQl3fWwT0neEx4JuGpDlN7HXNw2kPTipBy+l13x2qDT12/XvEg==
+     Transfered 40 TestCoin
+     Fee: 0 TestCoin
+     To: lXeGIcKYYT5aLMUK66pH96VlKyQliTNKoIXHmNS1RDVWYx5PKjcEokP/fu04NQsLOpw5uODhO47a+9XnZ6Clxw==
+     From: TestCoin Mine Rewards
+
+Block Index: 2     Timestamp: 16/11/2018 19:03:24
+ Hash: 00000a77f2efe6a85a28d0c98fa73ed25455d3b8c9730edc1a57ff5a5194b62a
+ Previous Hash: 00000e9cadc22df2e7006a536cc2df82cc9fe2d5f455b40ce50a272cc69ca96e
+ Nonce: 575914
+ MerkleRoot: 2a8a1c197e4e6b3017594af856d0d52735bc09ef5dc9d55de567dd12f925cdb1
+ Reward: 40 to lXeGIcKYYT5aLMUK66pH96VlKyQliTNKoIXHmNS1RDVWYx5PKjcEokP/fu04NQsLOpw5uODhO47a+9XnZ6Clxw==
+ Transaction Fees Reward: 0
+ Transaction Details: 
+
+     Transaction Hash: 3805b724b6737fb9d7a35b7ed7ff9c641212c0ca2e19675de50b4a1067e320cb
+     Signature: ff2Lmk9Nn5CpMidCUZOwVk6zrQZnB3BD8IkgS2BWbsl0Ra+qTV00OYWMXjKGNwjmYG3Jurt4tPK7petNAG8ysw==
+     Transfered 40 TestCoin
+     Fee: 0 TestCoin
+     To: lXeGIcKYYT5aLMUK66pH96VlKyQliTNKoIXHmNS1RDVWYx5PKjcEokP/fu04NQsLOpw5uODhO47a+9XnZ6Clxw==
+     From: TestCoin Mine Rewards
+
+Block Index: 3     Timestamp: 16/11/2018 19:03:44
+ Hash: 00000c8d00e4ae254241494c318820c6b4e066101b12625efd2abe3c3d5092a2
+ Previous Hash: 00000a77f2efe6a85a28d0c98fa73ed25455d3b8c9730edc1a57ff5a5194b62a
+ Nonce: 15008426
+ MerkleRoot: 3c0849408324e48f5a4333cb3359cd25364a05da1e81803a357be8cff6275cf5
+ Reward: 40 to lXeGIcKYYT5aLMUK66pH96VlKyQliTNKoIXHmNS1RDVWYx5PKjcEokP/fu04NQsLOpw5uODhO47a+9XnZ6Clxw==
+ Transaction Fees Reward: 0.00126
+ Transaction Details: 
+
+     Transaction Hash: 4bab2deb1ff76d6e1cbdb1a83821c0b3dcdb75e9d3d1d7243dfb9c352574f074
+     Signature: 30bk6ZoZ069IJhhh6WnO3BvhlIzuXFzXX2DQI1qd/+RF7iW47GVXtYGp6RxmUhzBslTTY0AtKhFjlk30p4h7dA==
+     Transfered 12 TestCoin
+     Fee: 0.00021 TestCoin
+     To: hjhjh
+     From: lXeGIcKYYT5aLMUK66pH96VlKyQliTNKoIXHmNS1RDVWYx5PKjcEokP/fu04NQsLOpw5uODhO47a+9XnZ6Clxw==
+
+     Transaction Hash: 4bab2deb1ff76d6e1cbdb1a83821c0b3dcdb75e9d3d1d7243dfb9c352574f074
+     Signature: B5WNXhFIkRpppgzucnik8h22i8YwobGBHtFke8FLt/vhJoYHb3wkP44teVZrIIlYcNbL1DHpDo5VHj9ldT8iuQ==
+     Transfered 12 TestCoin
+     Fee: 0.00021 TestCoin
+     To: hjhjh
+     From: lXeGIcKYYT5aLMUK66pH96VlKyQliTNKoIXHmNS1RDVWYx5PKjcEokP/fu04NQsLOpw5uODhO47a+9XnZ6Clxw==
+
+     Transaction Hash: effd61e91e32c69a001f1ac1348b1ed29536f436cedc762e0232a9dad18afc44
+     Signature: Vzt8+6ff1NGhK5ieBkYsqKahZpXLW0FgvFhxXk4NPbM6CV4GCfe11hr8Kmsk7/HHFQCjAqBbwlcOmyuJxmQJkQ==
+     Transfered 12 TestCoin
+     Fee: 0.00021 TestCoin
+     To: hjhjh
+     From: lXeGIcKYYT5aLMUK66pH96VlKyQliTNKoIXHmNS1RDVWYx5PKjcEokP/fu04NQsLOpw5uODhO47a+9XnZ6Clxw==
+
+     Transaction Hash: effd61e91e32c69a001f1ac1348b1ed29536f436cedc762e0232a9dad18afc44
+     Signature: Fzu23ocR10YcotF+1/ahfy9uAL7/+m2tYx2TVVvDcL78VQmqbh5WTqYRsroCO3EN8fsbY8nP+VOJCk5bJGL3aA==
+     Transfered 12 TestCoin
+     Fee: 0.00021 TestCoin
+     To: hjhjh
+     From: lXeGIcKYYT5aLMUK66pH96VlKyQliTNKoIXHmNS1RDVWYx5PKjcEokP/fu04NQsLOpw5uODhO47a+9XnZ6Clxw==
+
+     Transaction Hash: effd61e91e32c69a001f1ac1348b1ed29536f436cedc762e0232a9dad18afc44
+     Signature: KJpjvCxqwH92bVbzMVSTTo6VAFS2o8rBxOcLgXJKDLWWgfNm/Y5a/+bYp8/LsFdVu2G3Z7YgQOPdWIg/CFYEOw==
+     Transfered 12 TestCoin
+     Fee: 0.00021 TestCoin
+     To: hjhjh
+     From: lXeGIcKYYT5aLMUK66pH96VlKyQliTNKoIXHmNS1RDVWYx5PKjcEokP/fu04NQsLOpw5uODhO47a+9XnZ6Clxw==
+
+     Transaction Hash: 6a277cb84e3d7d66f7c911b6f0aee4a033d46e132de77fee55bae2cde9e34483
+     Signature: 4Vkv3j69R4zKM+nmtKhFZ8RLqAV4iSmjrJ0Mk5TRBFAZ+R7oa5SGOVq5AJvb5c163Cq7K1xLR16bb8nyll5gmw==
+     Transfered 12 TestCoin
+     Fee: 0.00021 TestCoin
+     To: hjhjh
+     From: lXeGIcKYYT5aLMUK66pH96VlKyQliTNKoIXHmNS1RDVWYx5PKjcEokP/fu04NQsLOpw5uODhO47a+9XnZ6Clxw==
+
+     Transaction Hash: d0c1f78e036ee2a9da605aaad72a6123e9b82bd93c55f59aa14b9974b0775a32
+     Signature: 6EnPSBM+rf10aKutWc2G27DSUAuiRIjednDcxJNfc35rKLiHS+3AWBSkocK4MrQ+ABOPHSH1OERj98rIt/56bg==
+     Transfered 40.00126 TestCoin
+     Fee: 0 TestCoin
+     To: lXeGIcKYYT5aLMUK66pH96VlKyQliTNKoIXHmNS1RDVWYx5PKjcEokP/fu04NQsLOpw5uODhO47a+9XnZ6Clxw==
+     From: TestCoin Mine Rewards
+
+Block Index: 4     Timestamp: 16/11/2018 19:03:47
+ Hash: 00000552791ba473babf840e6f893e31f3af27adc5b7dcc979f68a11147fd72f
+ Previous Hash: 00000c8d00e4ae254241494c318820c6b4e066101b12625efd2abe3c3d5092a2
+ Nonce: 10355572
+ MerkleRoot: a871c9cfc1ef42678bfed84f86a434c9a310c8d249da930202a0c083ec60b62c
+ Reward: 40 to lXeGIcKYYT5aLMUK66pH96VlKyQliTNKoIXHmNS1RDVWYx5PKjcEokP/fu04NQsLOpw5uODhO47a+9XnZ6Clxw==
+ Transaction Fees Reward: 0.00021
+ Transaction Details: 
+
+     Transaction Hash: ac7e4977a5fda8641518e6e0800ed0aeaf3c42148e98ec9bb51a0bafd87fb5c5
+     Signature: 2/YBblFqWRkVGCq9pfSvonVNwY4AsoAO6QaMmoH7agLwTm2VRIb6oYYnOGNNqnVZUIquvskRm+g+a8+qiyDJFA==
+     Transfered 12 TestCoin
+     Fee: 0.00021 TestCoin
+     To: hjhjh
+     From: lXeGIcKYYT5aLMUK66pH96VlKyQliTNKoIXHmNS1RDVWYx5PKjcEokP/fu04NQsLOpw5uODhO47a+9XnZ6Clxw==
+
+     Transaction Hash: 6ef49fe7372c21af56a196890f6b3722c7c181284fcc97ece00c14628c1309a4
+     Signature: arZpraYPOZuI/Qb3pQMYDEpq4sPTykZ61sS+6gWcW0ZiEODW94fhXYfJKjmZcS5oNt+OSaTfR++0t0rzfa65wQ==
+     Transfered 40.00021 TestCoin
+     Fee: 0 TestCoin
+     To: lXeGIcKYYT5aLMUK66pH96VlKyQliTNKoIXHmNS1RDVWYx5PKjcEokP/fu04NQsLOpw5uODhO47a+9XnZ6Clxw==
+     From: TestCoin Mine Rewards
+
+Block Index: 5     Timestamp: 16/11/2018 19:04:03
+ Hash: 000008f5b41d2c6baad7304373da8d696db15b75f37dbf33ac0f5bd3378fb12c
+ Previous Hash: 00000552791ba473babf840e6f893e31f3af27adc5b7dcc979f68a11147fd72f
+ Nonce: 5166467
+ MerkleRoot: 9b040ce21d35456a6ed645d5f1f7fb8fb01b419b813ff17ff6856e20174f693c
+ Reward: 40 to lXeGIcKYYT5aLMUK66pH96VlKyQliTNKoIXHmNS1RDVWYx5PKjcEokP/fu04NQsLOpw5uODhO47a+9XnZ6Clxw==
+ Transaction Fees Reward: 0
+ Transaction Details: 
+
+     Transaction Hash: 7be36e72f80d25b1a5370c34369ed3565f44e74855455432023f7f4ebb11a3b7
+     Signature: LExc13uXSt6n/Uk1fm20IGMPkTIdBqqWzR8rbmFdOhAo1LCpQ5BImXQQ9ijp26WoWVz3eBtqzylf8Zadh2cQVg==
+     Transfered 40 TestCoin
+     Fee: 0 TestCoin
+     To: lXeGIcKYYT5aLMUK66pH96VlKyQliTNKoIXHmNS1RDVWYx5PKjcEokP/fu04NQsLOpw5uODhO47a+9XnZ6Clxw==
+     From: TestCoin Mine Rewards
+
+Block Index: 6     Timestamp: 16/11/2018 19:04:09
+ Hash: 0000043fe86931d3f4fbf91274628f8a007987a4e15d670ff3593b82b174a617
+ Previous Hash: 000008f5b41d2c6baad7304373da8d696db15b75f37dbf33ac0f5bd3378fb12c
+ Nonce: 5183980
+ MerkleRoot: ca574f1cb8b571d812dd7b6c160f2ca21105368f2244d4f6093b5598a224f1ef
+ Reward: 40 to lXeGIcKYYT5aLMUK66pH96VlKyQliTNKoIXHmNS1RDVWYx5PKjcEokP/fu04NQsLOpw5uODhO47a+9XnZ6Clxw==
+ Transaction Fees Reward: 0.00021
+ Transaction Details: 
+
+     Transaction Hash: f8e76187629cf7cad86b9835c558f2f51320a6b9870797bd3003e9d99304111d
+     Signature: dYSYKGxTtI1oQt2Jz6HN4RZKz+fWWrxw/GsDN2EdGsp1l09b3J2It5Z7NAer/zXla8gmwwVW6HVXtdOlrRTQgg==
+     Transfered 12 TestCoin
+     Fee: 0.00021 TestCoin
+     To: hjhjh
+     From: lXeGIcKYYT5aLMUK66pH96VlKyQliTNKoIXHmNS1RDVWYx5PKjcEokP/fu04NQsLOpw5uODhO47a+9XnZ6Clxw==
+
+     Transaction Hash: ae7ff0646afb15c8b4add824833d7a3c53168127a82016993ff95d9c6231a052
+     Signature: A7yeI76xgl2h23dyGK8aUrc3zcgoGFO2e0dwJy53oTy9/6eQQhMawf7cucWukf/SxKHWVVAul6WHL2EQLi2A6g==
+     Transfered 40.00021 TestCoin
+     Fee: 0 TestCoin
+     To: lXeGIcKYYT5aLMUK66pH96VlKyQliTNKoIXHmNS1RDVWYx5PKjcEokP/fu04NQsLOpw5uODhO47a+9XnZ6Clxw==
+     From: TestCoin Mine Rewards
+
+Block Index: 7     Timestamp: 16/11/2018 19:04:45
+ Hash: 00000c9a12bf8c1f18817174e150f9aea9de4c379673dc12c37f181839554923
+ Previous Hash: 0000043fe86931d3f4fbf91274628f8a007987a4e15d670ff3593b82b174a617
+ Nonce: 25143831
+ MerkleRoot: 3bb1b9e1a121f3501edb0a98142235518ca83fd481c2e40e1b626d5649dbdc3e
+ Reward: 40 to lXeGIcKYYT5aLMUK66pH96VlKyQliTNKoIXHmNS1RDVWYx5PKjcEokP/fu04NQsLOpw5uODhO47a+9XnZ6Clxw==
+ Transaction Fees Reward: 0
+ Transaction Details: 
+
+     Transaction Hash: 199d35648a022caed8b6e46a4bb4fcd411994bfee0690be63f790d53b8f9aa92
+     Signature: 1Cb+O5E+omLmp6eqkuSUasukjnnqBZVc+4akWZOI0VoonYgWm6Uioqw5chvqnuKIWr/81imDxwTTbOK0DWjivg==
+     Transfered 40 TestCoin
+     Fee: 0 TestCoin
+     To: lXeGIcKYYT5aLMUK66pH96VlKyQliTNKoIXHmNS1RDVWYx5PKjcEokP/fu04NQsLOpw5uODhO47a+9XnZ6Clxw==
+     From: TestCoin Mine Rewards
+
