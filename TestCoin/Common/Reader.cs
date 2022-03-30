@@ -528,6 +528,23 @@ namespace TestCoin.Common
             return path;
         }
 
+        /// <summary>
+        /// Deletes all files in storage directory so Blockchain can start over.
+        /// </summary>
+        /// <returns></returns>
+        public void DeleteAll()
+        {
+            DirectoryInfo di = new DirectoryInfo(Directory.GetCurrentDirectory().ToString() + "\\Storage");
+
+            foreach (FileInfo file in di.GetFiles())
+            {
+                file.Delete();
+            }
+            foreach (DirectoryInfo dir in di.GetDirectories())
+            {
+                dir.Delete(true);
+            }
+        }
 
 
         public static bool IsFileReady(string filename)

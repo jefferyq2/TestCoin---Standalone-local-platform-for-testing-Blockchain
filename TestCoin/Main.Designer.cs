@@ -77,6 +77,7 @@
             this.richTextBox2 = new System.Windows.Forms.RichTextBox();
             this.button20 = new System.Windows.Forms.Button();
             this.tabPage3 = new System.Windows.Forms.TabPage();
+            this.checkBox8 = new System.Windows.Forms.CheckBox();
             this.button32 = new System.Windows.Forms.Button();
             this.button31 = new System.Windows.Forms.Button();
             this.numericUpDown6 = new System.Windows.Forms.NumericUpDown();
@@ -110,7 +111,7 @@
             this.button19 = new System.Windows.Forms.Button();
             this.button17 = new System.Windows.Forms.Button();
             this.button18 = new System.Windows.Forms.Button();
-            this.checkBox8 = new System.Windows.Forms.CheckBox();
+            this.button33 = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDown1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDown2)).BeginInit();
             this.tabControl1.SuspendLayout();
@@ -627,6 +628,17 @@
             this.tabPage3.Text = "Automation";
             this.tabPage3.Click += new System.EventHandler(this.tabPage3_Click);
             // 
+            // checkBox8
+            // 
+            this.checkBox8.AutoSize = true;
+            this.checkBox8.Location = new System.Drawing.Point(377, 143);
+            this.checkBox8.Name = "checkBox8";
+            this.checkBox8.Size = new System.Drawing.Size(70, 17);
+            this.checkBox8.TabIndex = 31;
+            this.checkBox8.Text = "Log View";
+            this.checkBox8.UseVisualStyleBackColor = true;
+            this.checkBox8.CheckedChanged += new System.EventHandler(this.checkBox8_CheckedChanged);
+            // 
             // button32
             // 
             this.button32.Location = new System.Drawing.Point(195, 112);
@@ -963,22 +975,22 @@
             this.button18.UseVisualStyleBackColor = true;
             this.button18.Click += new System.EventHandler(this.button18_Click);
             // 
-            // checkBox8
+            // button33
             // 
-            this.checkBox8.AutoSize = true;
-            this.checkBox8.Location = new System.Drawing.Point(377, 143);
-            this.checkBox8.Name = "checkBox8";
-            this.checkBox8.Size = new System.Drawing.Size(70, 17);
-            this.checkBox8.TabIndex = 31;
-            this.checkBox8.Text = "Log View";
-            this.checkBox8.UseVisualStyleBackColor = true;
-            this.checkBox8.CheckedChanged += new System.EventHandler(this.checkBox8_CheckedChanged);
+            this.button33.Location = new System.Drawing.Point(681, 437);
+            this.button33.Name = "button33";
+            this.button33.Size = new System.Drawing.Size(103, 53);
+            this.button33.TabIndex = 39;
+            this.button33.Text = "Delete Blockchain file - App will close";
+            this.button33.UseVisualStyleBackColor = true;
+            this.button33.Click += new System.EventHandler(this.button33_Click);
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1268, 512);
+            this.Controls.Add(this.button33);
             this.Controls.Add(this.button19);
             this.Controls.Add(this.button18);
             this.Controls.Add(this.button17);
@@ -1115,6 +1127,7 @@
         private System.Windows.Forms.CheckBox checkBox7;
         private System.Windows.Forms.Button button32;
         private System.Windows.Forms.CheckBox checkBox8;
+        private System.Windows.Forms.Button button33;
     }
 }
 

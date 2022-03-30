@@ -704,6 +704,13 @@ namespace TestCoin
                 blockTester.logSetting = checkBox8.Checked;
             }
         }
+
+        private void button33_Click(object sender, EventArgs e)
+        {
+            reader.DeleteAll();
+
+            this.Close();
+        }
     }
 
     }
